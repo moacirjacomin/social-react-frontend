@@ -1,9 +1,8 @@
 # Hooks + GraphQl + Semantic UI
 
-| Descricao   | Previa          | 
-| ---         |     :---:      | 
-| rede social com postagens, likes e comentarios | <p align="center"> <img src="Capture.png" width="450" title="hover text"> </p> |
+Rede social com postagens, likes e comentarios. 
 
+<p align="center"> <img src="Capture.PNG" width="850" title="hover text"> </p>
 
 ## :checkered_flag: Passos para instalar o projeto 
 
@@ -51,10 +50,6 @@ Algo que pode ser util.
  - [Video Classed parte  9](https://youtu.be/Ol2pXWQWhbg)
  - [Video Classed parte 10](https://www.youtube.com/watch?v=c-FZo25k1Io)
  - [Video Classed parte 11](https://www.youtube.com/watch?v=x-UFBhAPocI)
- 
- 
- 
- 
  - [Git](https://github.com/hidjou/classsed-graphql-mern-apollo)
  - [Playlist Backend GraphQL](https://www.youtube.com/playlist?list=PLMhAeHCz8S3_CTiWMQhL6YxX7vZ7z84Zo)
 
@@ -64,7 +59,14 @@ Algo que pode ser util.
  - 22222   email: 22222@22222.com    s: 22222
 
 ### :satellite:  Backend 
-- NAo tem
+- Back-End Heroku: https://glacial-lake-96580.herokuapp.com/ 
+ 
+### :satellite:  Repositorios Publicos
+ - Back-End - local: C:\Users\Moacir\Documents\projetosCompartilhados\social-react-backend
+ - Back-End - remoto: https://github.com/moacirjacomin/social-react-backend 
+ - Front-End - local: C:\Users\Moacir\Documents\projetosCompartilhados\social-react-frontend
+ - Front-End - remoto: https://github.com/moacirjacomin/social-react-frontend
+ 
  
 
  
