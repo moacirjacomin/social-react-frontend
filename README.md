@@ -4,6 +4,8 @@ Rede social com postagens, likes e comentarios.
 
 <p align="center"> <img src="Capture.PNG" width="850" title="hover text"> </p>
 
+Demo: [https://5e6cf5b5a4ac105953965c16--suspicious-joliot-5e07a9.netlify.com/](https://5e6cf5b5a4ac105953965c16--suspicious-joliot-5e07a9.netlify.com/)
+
 ## :checkered_flag: Passos para instalar o projeto 
 
 Para rodar a aplicação, execute o comando: <br>
